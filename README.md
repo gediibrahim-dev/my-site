@@ -1,2 +1,3 @@
-# my-site
-This repository contains my test site.
+# My Test Site
+
+This is my test site to practice HTML and CSS. 
